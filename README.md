@@ -2,12 +2,11 @@
 一个仿照塞壬唱片MSR官网制作切歌文字动画制作的网页文本变换实例。（虽说应该有更加简便的方法）<br>
 <a href="https://monster-siren.hypergryph.com/about">塞壬唱片MSR官网</a><br>
 代码：<br>
-    <!DOCTYPE html>
-    <html>
-        <head>
-            <meta charset="gbk">
-            <title>text change test</title>
-    
+        <!DOCTYPE html>
+        <html>
+            <head>
+                <meta charset="gbk">
+                <title>text change test</title>
         </head>
         <body>
             <p id="text1" style="font-size: 100px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;text-align: center;">
