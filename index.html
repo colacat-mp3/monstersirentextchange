@@ -10,7 +10,11 @@
             //////////
         </p><br>
         <input type="button" onclick="changeall()" value="change the text">
+        <input type="button" onclick="rechange()" value="rechange the text">
         <script>
+            function rechange(){
+            document.getElementById('text1').innerHTML="//////////";
+            }
             function changeall(){
             setTimeout(function(){changea1();},50);
             setTimeout(function(){changea2();},150);
